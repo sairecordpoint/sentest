@@ -1,6 +1,6 @@
 {
-	"AadClientId": "17e10c3e-61ee-4f29-ba8e-dfe86338f128",
-	"AadSecret": "rYS8Q~XSZ236togCZ4qJIxOddshTAcw.nIj~pagX",
+	"AadClientId": "7e9af41c-c84f-49f3-99d5-19d546b90f82",
+	"AadSecret": "SD68Q~2oRiEBrR6DyPHyuJ2R2fvhyu_PQ2jwFaCp",
 	"AadTenantDomain": "test.onmicrosoft.com",
 	"AadTenantId": "43909106-bb99-4431-a550-e1b5281bc3b9",
 }
